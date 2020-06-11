@@ -22,3 +22,15 @@
 `cd /opt && chmod +x TLServer-CentOS7x-CHS.sh`
 
 `sh TLServer-CentOS7x-CHS.sh`
+
+## TlbbDB-DF.sh
+一键删档脚本
+
+使用说明：
+
+`chmod +x TlbbDB-DF.sh`
+
+`sh TlbbDB-DF.sh`
+
+输入数据库密码后等待完成
+注：[运行此脚本前建议先停止天龙服务端运行，以免产生脏数据]
